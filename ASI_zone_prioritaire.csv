@@ -1,0 +1,142 @@
+﻿Rang, Titre_referents,Prenom_referents, Nom_referents,Prenom_enfant, Nom_enfant,num_voie, nom_voie, complement_adresse, code_postal, nom_commune
+collegien/ne,Monsieur,John,DoeA,John,DoeB,1,cour Pablo Picasso,porte 1,10120,Saint-Andre-les-Vergers
+ecolier/ere,M. et Mme,John,DoeC,John,DoeD,1,rue de l'eglise,,10120,Saint-Andre-les-Vergers
+ecolier/ere,M. et Mme,John,DoeE,John,DoeF,1,rue de l'eglise,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeG,John,DoeH,1,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeA,John,DoeB,1,cour FranÃ§ois Rabelais,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,1,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeE,John,DoeF,1,cour Edmond Michelet,porte 2,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,1,rue du 11 novembre,,10300,Sainte-Savine
+ecolier/ere,madame,John,DoeA,John,DoeB,1,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,1,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeE,John,DoeF,1,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeG,John,DoeH,1,cour Pablo Picasso,Porte 3,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeA,John,DoeB,1,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,1,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,,DoeI,AÃ¯ssa,DoeJ,1,rue des Cheminots,,10600,La-chapelle-saint-luc
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,1,cour Pablo Picasso,Porte 4,10120,Saint-Andre-les-Vergers
+,Madame,John,DoeC,John,DoeD,1,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Madame,John,DoeE,John,DoeF,2,rue Pierre Radisson,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,2,rue de la loge Gaulin,,10120,Saint-Andre-les-Vergers
+ecolier/ere,monsieur,John,DoeA,John,DoeB,2,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,monsieur,John,DoeC,John,DoeD,2,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Madame,John,DoeE,John,DoeF,3,impasse Jacques Julyot,,10000,Troyes
+adulte/benevole,madame,John,DoeG,John,DoeH,3,rue Charles Birgentzle,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,3,cour Edmond Michelet,Porte 5,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,3,cour Edmond Michelet,Porte 6,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeE,John,DoeF,3,cour Edmond Michelet,Porte 7,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,3,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,3,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeC,John,DoeD,3,cour Pablo Picasso,Porte 8,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeE,John,DoeF,3,rue Roger Gouaille,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,3,rue Roger Gouaille,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,4,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,4,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeE,John,DoeF,4,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeG,John,DoeH,4,cour Pablo Picasso,Porte 9,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,4,cour Pablo Picasso,Porte 10,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeC,John,DoeD,5,impasse des enfants sans souci,,10000,Troyes
+adulte/benevole,Monsieur,John,DoeE,John,DoeF,5,rue Edmee Vivien,,10120,Saint-Andre-les-Vergers
+Collegien/ne,Madame,John,DoeG,John,DoeH,5,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,5,rue Maurice Ravel,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Madame,John,DoeC,John,DoeD,7,rue des Gayettes,,10000,troyes
+adulte/benevole,Monsieur,John,DoeE,John,DoeF,7,rue des Gayettes,,10000,troyes
+adulte/benevole,Monsieur,John,DoeG,John,DoeH,7,rue du Village,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeA,John,DoeB,7,cour Pablo Picasso,Porte 11,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeC,John,DoeD,8,impasse de la haie Piquet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeE,John,DoeF,8,impasse de la haie Piquet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,9,rue de la Croix Blanche,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,10,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,11,rue de l'Europe,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeE,John,DoeF,11,cour Edmond Michelet,Porte 12,10120,Saint-Andre-les-Vergers
+adulte/benevole,Monsieur,John,DoeG,John,DoeH,12,rue Andre Massin,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,12,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeC,John,DoeD,12,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeE,John,DoeF,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,12,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,12,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeC,John,DoeD,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeE,John,DoeF,12,cour Pablo Picasso,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeC,John,DoeD,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeE,John,DoeF,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeC,John,DoeD,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeE,John,DoeF,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeC,John,DoeD,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeE,John,DoeF,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,12,cour Pablo Picasso,Porte 13,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,13,cour Edmond Michelet,Porte 14,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,13,cour Edmond Michelet,Porte 14,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeE,John,DoeF,15,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,15,cour Edmond Michelet,Porte 15,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,15,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeC,John,DoeD,16,cour Edmond Michelet,Porte 16,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeE,John,DoeF,16,cour Edmond Michelet,Porte 17,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,16,cour Edmond Michelet,Porte 17,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeA,John,DoeB,16,cour Edmond Michelet,Porte 17,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeC,John,DoeD,16,cour Edmond Michelet,Porte 18,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeE,John,DoeF,16,cour Edmond Michelet,Porte 19,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,16,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,16,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeC,John,DoeD,16,cour Edmond Michelet,,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeE,John,DoeF,19,rue Alexandre Fleming,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,19,rue Alexandre Fleming,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Madame,John,DoeA,John,DoeB,21,rue des freres Gillet,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Monsieur,John,DoeC,John,DoeD,21,rue des freres Gillet,,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeE,John,DoeF,22,chemin de l'Abbaye de Montier la Celle,,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeG,John,DoeH,25,avenue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeA,John,DoeB,25,avenue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeC,John,DoeD,25,avenue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Madame,John,DoeE,John,DoeF,25,avenue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeG,John,DoeH,25,avenue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeA,John,DoeB,25,avenue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeC,John,DoeD,25,rue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+ecolier/ere,madame,John,DoeE,John,DoeF,25,rue du Marechal Leclerc,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Monsieur,John,DoeG,John,DoeH,40,rue Chevalier,,10600,Mergey
+adulte/benevole,madame,John,DoeA,John,DoeB,47,rue Pasteur,,10430,Rosieres
+adulte/benevole,Madame,John,DoeC,John,DoeD,12 B,chaussee du Vouldy,,10000,Troyes
+ecolier/ere,Madame,John,DoeE,John,DoeF,12 B,chaussee du Vouldy,,10000,Troyes
+ecolier/ere,Madame,John,DoeG,John,DoeH,12 B,chaussee du Vouldy,,10000,Troyes
+ecolier/ere,Madame,John,DoeA,John,DoeB,2 bis,rue Montcalm,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Madame,John,DoeC,John,DoeD,20A,rue Thiers,,10120,Saint-Andre-les-Vergers
+ecolier/ere,monsieur,John,DoeE,John,DoeF,27 A,rue Victor Hugo,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Madame,John,DoeG,John,DoeH,3,avenue Andre Gillier,,10120,Saint-Andre-les-Vergers
+,Madame,John,DoeA,John,DoeB,31b,rue Victor Hugo,,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeC,John,DoeD,5,place Jeanne de Navarre,,10000,Troyes
+adulte/benevole,madame,John,DoeE,John,DoeF,,,,,
+adulte/benevole,Madame,John,DoeG,John,DoeH,,,,,
+adulte/benevole,madame,John,DoeA,John,DoeB,,,,,
+adulte/benevole,madame,John,DoeC,John,DoeD,,,,,
+adulte/benevole,madame,John,DoeE,John,DoeF,,,,10120,Saint-Andre-les-Vergers
+adulte/benevole,madame,John,DoeG,John,DoeH,,,,10120,Saint-Andre-les-Vergers
+adulte/benevole,mademoiselle,John,DoeA,John,DoeB,,,,10120,Saint-Andre-les-Vergers
+adulte/benevole,mademoiselle,John,DoeC,John,DoeD,,,,,
+adulte/benevole,mademoiselle,John,DoeE,John,DoeF,,,,,
+adulte/benevole,mademoiselle,John,DoeG,John,DoeH,,,,,
+adulte/benevole,Monsieur,John,DoeA,John,DoeB,,,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Monsieur,John,DoeC,John,DoeD,,,,10120,Saint-Andre-les-Vergers
+adulte/benevole,Monsieur,John,DoeE,John,DoeF,,,,,
+adulte/benevole,Monsieur,John,DoeG,John,DoeH,,,,,
+adulte/benevole,Monsieur,John,DoeA,John,DoeB,,,,,
+adulte/benevole,Monsieur,John,DoeC,John,DoeD,,,,,
+adulte/benevole,Monsieur,John,DoeE,John,DoeF,,,,,
+adulte/benevole,Monsieur,John,DoeG,John,DoeH,,,,10430,Rosieres
+adulte/benevole,Monsieur,John,DoeE,John,DoeF,,,,10430,Rosieres
+adulte/benevole,Monsieur,John,DoeG,John,DoeH,,,,10430,Rosieres
+adulte/benevole,Monsieur,John,,John,,,,,,
+ecolier/ere,madame,,DoeA,John,DoeB,,,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeG,John,DoeH,,,,10120,Saint-Andre-les-Vergers
+ecolier/ere,Monsieur,John,DoeA,John,DoeB,,,,10120,Saint-Andre-les-Vergers
+ecolier/ere,,John,DoeA,John,DoeB,,,,,
+ecolier/ere,,,,John,DoeD,,,,,
+parent,Monsieur,John,,John,0,,,,10120,Saint-Andre-les-Vergers
+service civique,Monsieur,John,DoeG,John,DoeH,,,,,
+,,,,John,DoeB,,,,,
+,,,,John,DoeH,,,,,
+,,,,John,DoeB,,,,,
+,,,,John,DoeB,,,,,
